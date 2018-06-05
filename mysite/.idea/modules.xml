@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../python_study/crawl_demo/.idea/crawl_demo.iml" filepath="$PROJECT_DIR$/../../python_study/crawl_demo/.idea/crawl_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../python_study/crawl_python/.idea/crawl_python.iml" filepath="$PROJECT_DIR$/../../python_study/crawl_python/.idea/crawl_python.iml" />
+      <module fileurl="file://$USER_HOME$/workInZebra/hotelSystemPro_V2/.idea/hotelSystemPro_V2.iml" filepath="$USER_HOME$/workInZebra/hotelSystemPro_V2/.idea/hotelSystemPro_V2.iml" />
+      <module fileurl="file://$USER_HOME$/workInZebra/once_temp_from_product/hotel/hotel_top_100/.idea/hotel_top_100.iml" filepath="$USER_HOME$/workInZebra/once_temp_from_product/hotel/hotel_top_100/.idea/hotel_top_100.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mysite.iml" filepath="$PROJECT_DIR$/.idea/mysite.iml" />
+    </modules>
+  </component>
+</project>
